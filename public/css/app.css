@@ -1,0 +1,57 @@
+@font-face { 
+    font-family: "pp-sans-big-light"; 
+    src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.eot?#iefix") format("embedded-opentype"), url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.woff") format("woff"), url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf") format("truetype"), url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.svg") format("svg"); 
+}
+body {
+    font-family: pp-sans-big-light,Helvetica Neue,Arial,sans-serif !important;
+    
+}
+.wrapper {
+    background: #e1e1e1;
+    width: 100%;
+    height: 100%;
+}
+.header {
+    background: #747377;
+    height: 9%;
+}
+.header-widget {
+    background: #fff;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top:1%;
+    padding: 0.30em;
+    border-radius: 1em;
+}
+.hemm-img {
+    padding: 1em; 
+    height: 15em;
+    width: 15em;
+    border-radius: 10em;
+    float: left;
+}
+.intro-section {
+    padding: 1em; 
+}
+.name {
+    font-size: 3em;
+    margin-left: 1%;
+}
+.sub-title {
+    font-size: 1.5em;
+    margin-left: 1%;
+}
+.email-badge{
+    font-size: 1.1em;
+    text-decoration: none; 
+    color: #006fa6;
+    margin-left: 1%;
+}
+.left-badge {
+    padding-top: 1em;
+    margin-left: 1%;
+    font-size: 1em;
+}
+.info-badge {
+    
+}

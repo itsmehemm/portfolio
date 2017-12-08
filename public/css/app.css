@@ -30,6 +30,12 @@ body {
     border-radius: 10em;
     float: left;
 }
+.media-img {
+    height: 4.5em;
+    width: 4.5em;
+    padding:1em;
+    cursor: pointer;
+}
 .intro-section {
     padding: 1em; 
 }
@@ -52,6 +58,11 @@ body {
     margin-left: 1%;
     font-size: 1em;
 }
-.info-badge {
-    
+.left-float {
+    float:left;
+}
+.address-badge {
+   line-height: 3;
+   margin-left: 1%;
+
 }

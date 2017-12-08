@@ -1,5 +1,27 @@
-{>"layouts/master" /}
-
-{<body}
-    <h1>{@pre type="content" key="greeting"/}</h1>
-{/body}
+<html>
+    <head>
+        <title> Hemanth M | Portfolio </title>
+        <link rel="stylesheet" href="css/app.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div class="wrapper">
+            <div class="header">
+            </div>
+            <div class="header-widget">
+                <img class="hemm-img" src="/images/hemm.jpg"/>
+                <div class="intro-section">
+                    <span class="name"> Hemanth M </span> <br>
+                    <span class="sub-title"> Competitive Programmer | Software Development Engineer at PayPal Inc. </span> <br>
+                    <span class="left-badge glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                    <a class="email-badge" href="mailto:hemanthprasathmurali@gmail.com"> hemanthprasathmurali@gmail.com</a> <br>
+                    <span class="left-badge glyphicon glyphicon-globe" aria-hidden="true"></span>
+                    <a class="email-badge" href="www.linkedin.com/itsmehemm"> linkedin.com/itsmehemm </a>
+                
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

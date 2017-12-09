@@ -61,7 +61,7 @@
                     <div class="job-title">
                         <span class="title-name"> Software Engineer </span> <br>
                         <span class="company-name"> PayPal </span> <br>
-                        <span class="duration"> July 2017 – Present (6 months) | Chennai Area, India </span> <br> <br>
+                        <span class="duration"> July 2017 – Present (6 months) &nbsp; &bull; &nbsp;Chennai Area, India </span> <br> <br>
                         <span class="responsibility">
                             Software Development Engineer for the Unbranded Payment Products. One among the 20 most talented engineers who builds the entire Unbranded Products.
                         </span>    <br>
@@ -88,7 +88,7 @@
                     <div class="job-title">
                         <span class="title-name"> Software Engineering Intern </span> <br>
                         <span class="company-name"> PayPal </span> <br>
-                        <span class="duration"> May 2016 – July 2016 (3 months) | Chennai Area, India </span> <br> <br>
+                        <span class="duration"> May 2016 – July 2016 (3 months)&nbsp; &bull; &nbsp;Chennai Area, India </span> <br> <br>
                         <span class="responsibility">
                                 Software Development Engineer Intern in Data Analytics and Risk team of PayPal India.                                
                         </span>    <br>
@@ -133,9 +133,38 @@
                     <span class="skill-info int-label"> &emsp; DustJs &emsp; </span>
                     <span class="skill-info int-label"> &emsp; AngularJs &emsp; </span>
                     <span class="skill-info int-label"> &emsp; MySQL &emsp; </span> <br> <br>
-                    <span class="skill-info beg-label"> &emsp; TestNG &emsp; </span>
+                    <span class="skill-info beg-label"> &emsp; TestNG &emsp; </span> <br><br>
                     
                 </div>
+            </div>
+
+            <div class="header-widget">
+                <div class="summary">
+                    Education
+                </div>
+                <div class="edu-des">
+                    <div class="job-img">
+                        <img class="au-logo" src="images/au.png"/>
+                    </div>
+                    <div class="edu-title">
+                        <span class="title-name"> Anna University </span> <br>
+                        <span class="company-name"> Bachelor’s Degree, Computer Science and Engineering </span> <br>
+                        <span class="duration"> 2013 – 2017 &middot; Chennai Area, India </span> <br>
+                        <span class="gpa">&emsp;CGPA: 9.4/10 &emsp; </span> &emsp; &bull; &emsp;
+                        <span class="accom">&emsp;First Class with Distinction &emsp; </span>
+                    </div>
+                    <hr class="hr-line">
+                    <div class="">
+                        <img class="zion-logo" src="images/zion.jpg"/>
+                    </div>
+                    <div class="edu-title">
+                        <span class="title-name"> Zion Mat. Higher Sec. School </span> <br>
+                        <span class="company-name"> Computer Science </span> <br>
+                        <span class="duration"> 2011 – 2013 &middot; Chennai Area, India </span> <br>
+                        <span class="gpa">&emsp;Percentage: 97.41% &emsp; </span> &emsp; &bull; &emsp;
+                        <span class="accom">&emsp;Mathematics: 100% &emsp; </span> &emsp; &bull; &emsp;
+                        <span class="accom">&emsp;Computer Science: 100% &emsp; </span>
+                    </div>
             </div>
         </div>
     </body>

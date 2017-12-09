@@ -36,6 +36,7 @@ body {
     margin-right: 10%;
     margin-top:1%;
     padding: 0.30em;
+    box-shadow: 2px 2px 7px 1px  grey;
 }
 .profile {
     float: left;
@@ -210,4 +211,24 @@ body {
     margin-top:1%;
     padding:1em;
     line-height: 1;
+}
+.place-holder {
+    font-size:4em;
+    color: white;
+    background: rgb(136, 128, 24);
+    margin-left: 2%;
+    margin-right: 1%;
+    height:10%;
+}
+.award-details {
+    margin-left:11%;
+}
+.award-des {
+    font-size: 1.1em;
+}
+.lang-label {
+    background: rgb(37, 130, 173);
+    color: white;
+    border-radius: 0.7em;
+    margin-left:1%;
 }

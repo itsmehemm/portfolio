@@ -9,7 +9,6 @@ body {
 .wrapper {
     background: #e1e1e1;
     width: 100%;
-    height: 100%;
 }
 .header {
     background: #747377;
@@ -66,4 +65,30 @@ body {
     padding: 0.75em;
     margin-left:1%;
     margin-top: -1%;
+}
+.pp-logo {
+    height: 6em;
+    width: 8em;
+    float: left;
+}
+.title-name{
+    font-size:1.5em;
+}
+.company-name{
+    font-size:1.25em;
+}
+.duration{
+    color:#747377;
+}
+.responsibility {
+    font-size: 1.1em;
+    padding: 1em;
+    line-height: 2;
+    margin-left: 1%;
+}
+.res-des {
+    font-size: 1.1em;
+    padding: 1em;
+    line-height: 2;
+    margin-left: 1%;
 }

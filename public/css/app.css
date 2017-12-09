@@ -6,15 +6,7 @@ body {
     font-family: pp-sans-big-light,Helvetica Neue,Arial,sans-serif !important;
     
 }
-.wrapper {
-    background: #e1e1e1 !important;
-    width: 100%;
-}
-.top-header {
-    margin-top:6% !important;
-}
 .header {
-    opacity:100;
     background: #747377;
     height: 8%;
     position: fixed;
@@ -22,19 +14,60 @@ body {
     left:0;
     width: 100%; 
 }
-.header-widget {
+.header-logo{
+    margin-left: 50%;
+}
+.header-img {
+    height: 3.1em;
+    width: 3.1em;
+    border-radius: 10em;
+    margin-top:0.5%;
+}
+.clear {
+    height: 8%;
+}
+.wrapper {
+    background: #e1e1e1;
+    width: 100%;
+}
+.widget {
     background: #fff;
     margin-left: 10%;
     margin-right: 10%;
     margin-top:1%;
     padding: 0.30em;
 }
-.hemm-img {
+.profile {
+    float: left;
     padding: 1em; 
+}
+.profile-section {
+    padding: 1em; 
+    margin-left: 2%;
+}
+.hemm-img {
     height: 17em;
     width: 17em;
     border-radius: 10em;
-    float: left;
+}
+.name {
+    font-size: 3em;
+}
+.sub-title {
+    font-size: 1.5em;
+}
+.bull-label {
+    color: #747377;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.contact-section {
+    font-size: 1.1em;
+}
+.contact-badge {
+    padding-top:1em;
+    line-height: 1;
+    margin-left: 1%;
 }
 .media-img {
     height: 4.5em;
@@ -42,33 +75,20 @@ body {
     padding:1em;
     cursor: pointer;
 }
-.intro-section {
-    padding: 1em; 
-}
-.name {
-    font-size: 3em;
-    margin-left: 1%;
-}
-.sub-title {
-    font-size: 1.5em;
-    margin-left: 1%;
-}
-.email-badge{
+.link-badge{
     font-size: 1.1em;
     text-decoration: none; 
     color: #006fa6;
     margin-left: 1%;
 }
-.left-badge {
-    padding-top: 1em;
-    margin-left: 1%;
-    font-size: 1em;
-}
-.summary {
+.widget-title {
     font-size: 2em;
     padding: 0.75em;
 }
-.summary-info {
+.job-description {
+    margin-left:0%;
+}
+.widget-info {
     font-size:1.25em;
     padding: 0.75em;
     margin-left:1%;
@@ -79,6 +99,68 @@ body {
     width: 8em;
     float: left;
 }
+.title-name{
+    font-size:1.5em;
+}
+.company-name{
+    font-size:1.25em;
+}
+.duration{
+    color:#747377;
+}
+.job-details {
+    margin-left: 2%;
+    margin-top: 1%;
+    font-size: 1.1em;
+}
+.job-des {
+    padding: 1em;
+    line-height: 2;
+    margin-left: 1%;
+}
+.hr-line {
+    margin-left:2%;
+    margin-right:2%;
+}
+.float-left {
+    float:left;
+}
+.float-right {
+    float:right;
+}
+.high-label {
+    background: rgb(2, 2, 131);
+    color: white;
+    border-radius: 0.7em;
+    margin-left:1%;
+}
+.int-label {
+    background: rgb(33, 33, 224);
+    color: white;
+    border-radius: 0.7em;
+    margin-left:1%;
+}
+.beg-label {
+    background: rgb(71, 130, 255);
+    color: white;
+    border-radius: 0.7em;
+    margin-left:1%;
+}
+.level-label {
+    margin-top:2%;
+    margin-right:1%;
+}
+.skill-widget-title {
+    font-size: 2em;
+    margin-left:2%;
+}
+.skill-header {
+    height:8%;
+}
+.skill-set {
+    margin-left:2%;
+}
+
 .au-logo {
     height: 4em;
     width: 4em;
@@ -95,69 +177,13 @@ body {
 .edu-title {
     margin-left: 7%;
 }
-.pro-title {
+.pro-details {
     margin-left: 2%;
 }
-.title-name{
-    font-size:1.5em;
-}
-.company-name{
-    font-size:1.25em;
-}
-.duration{
-    color:#747377;
-}
-.responsibility {
-    font-size: 1.1em;
-    padding: 1em;
+.pro-des {
+    margin-left:1%;
+    font-size: 1.2em;
     line-height: 2;
-    margin-left: 1%;
-}
-.res-des {
-    font-size: 1.1em;
-    padding: 1em;
-    line-height: 2;
-    margin-left: 1%;
-}
-.hr-line {
-    margin-left:2%;
-    margin-right:2%;
-}
-.header-img{
-    margin-left: 50%;
-}
-.header-logo {
-    height: 5.2em;
-    width: 5.3em;
-    border-radius: 10em;
-    padding: 1em;
-
-}
-.clear {
-    height: 9%;
-}
-.skill-info {
-    background: #e1e1e1;
-    border-radius: 0.7em; 
-    margin-left: 2%;
-    margin-top: 2%;
-}
-.high-label {
-    background: rgb(2, 2, 131);
-    color: white;
-}
-.int-label {
-    background: rgb(33, 33, 224);
-    color: white;
-}
-.beg-label {
-    background: rgb(71, 130, 255);
-    color: white;
-    margin-right: 2%;
-}
-.skill-detail {
-    float:right;
-    width: 100%;
 }
 .job-title {
     margin-left:2%;

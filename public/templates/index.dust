@@ -105,9 +105,36 @@
                             4. The idea and prototype developed were taken into production.
                         </span>     <br>
                         <span class="res-des">
-                            5. Got Pre Placement Offer (PPO) to acknowledge my internship performance.
+                            5. Got Pre Placement Offer (PPO) to acknowledge my internship performance. <br>
                         </span>
                     </div>
+                </div>
+            </div>
+
+            <div class="header-widget">
+                <span class="summary" style="float:left">Skills</span>
+                <span style="float:right" class="skill-info beg-label"> &emsp;Beginner&emsp; </span> &emsp;&emsp;
+                <span style="float:right" class="skill-info int-label"> &emsp;Intermediate&emsp; </span> &ensp;
+                <span style="float:right" class="skill-info high-label"> &emsp;Highly proficient&emsp;</span> &ensp; 
+               
+                <div class="clear"></div> 
+                <div class="skill-set">
+                    <span class="skill-info high-label"> &emsp; C language &emsp; </span>
+                    <span class="skill-info high-label"> &emsp; C++ &emsp; </span>
+                    <span class="skill-info high-label"> &emsp; Java &emsp; </span>
+                    <span class="skill-info high-label"> &emsp; Javascript &emsp; </span>
+                    <span class="skill-info high-label"> &emsp; NodeJs &emsp; </span>
+                    <span class="skill-info high-label"> &emsp; HTML &emsp; </span>
+                    <span class="skill-info high-label"> &emsp; CSS &emsp; </span>
+                    <span class="skill-info high-label"> &emsp; JQuery &emsp; </span> <br> <br>
+                    <span class="skill-info int-label"> &emsp; Python &emsp; </span>
+                    <span class="skill-info int-label"> &emsp; PHP &emsp; </span>
+                    <span class="skill-info int-label"> &emsp; ReactJs &emsp; </span>
+                    <span class="skill-info int-label"> &emsp; DustJs &emsp; </span>
+                    <span class="skill-info int-label"> &emsp; AngularJs &emsp; </span>
+                    <span class="skill-info int-label"> &emsp; MySQL &emsp; </span> <br> <br>
+                    <span class="skill-info beg-label"> &emsp; TestNG &emsp; </span>
+                    
                 </div>
             </div>
         </div>

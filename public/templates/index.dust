@@ -9,7 +9,11 @@
     <body>
         <div class="wrapper">
             <div class="header">
-            </div>
+                <div class="header-img">
+                    <img class="header-logo" src="images/hemm.jpg"/>
+                </div>
+            </div> 
+            <div class="clear"></div>
             <div class="header-widget">
                 <img class="hemm-img" src="/images/hemm.jpg"/>
                 <div class="intro-section">
@@ -72,6 +76,36 @@
                         </span>    <br>
                         <span class="res-des">
                             4. Redefining few web and API tier technology stack from webscr to Node-KrakenJs Application.
+                        </span>
+                    </div>
+                    <hr class="hr-line">
+                </div>
+
+                <div class="job-description">
+                    <div class="job-img">
+                        <img class="pp-logo" src="images/pp.png"/>
+                    </div>
+                    <div class="job-title">
+                        <span class="title-name"> Software Engineering Intern </span> <br>
+                        <span class="company-name"> PayPal </span> <br>
+                        <span class="duration"> May 2016 – July 2016 (3 months) | Chennai Area, India </span> <br> <br>
+                        <span class="responsibility">
+                                Software Development Engineer Intern in Data Analytics and Risk team of PayPal India.                                
+                        </span>    <br>
+                        <span class="res-des">
+                            1. Automated the updating of sensible live and huge amount of data in Teradata (Simba).
+                        </span>    <br>
+                        <span class="res-des">
+                            2. Designed a single gateway dashboard for all Risk Products(Consume, Seller and Regional Risk)
+                        </span>     <br>
+                        <span class="res-des">
+                            3. Redesigned the Key Performance Indicator (KPI) portal that renders the critical values and key targets for various organizations inside PayPal.
+                        </span>    <br>
+                        <span class="res-des">
+                            4. The idea and prototype developed were taken into production.
+                        </span>     <br>
+                        <span class="res-des">
+                            5. Got Pre Placement Offer (PPO) to acknowledge my internship performance.
                         </span>
                     </div>
                 </div>

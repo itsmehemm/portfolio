@@ -21,7 +21,6 @@ body {
     margin-right: 10%;
     margin-top:1%;
     padding: 0.30em;
-    border-radius: 1em;
 }
 .hemm-img {
     padding: 1em; 
@@ -58,11 +57,13 @@ body {
     margin-left: 1%;
     font-size: 1em;
 }
-.left-float {
-    float:left;
+.summary {
+    font-size: 2em;
+    padding: 0.75em;
 }
-.address-badge {
-   line-height: 3;
-   margin-left: 1%;
-
+.summary-info {
+    font-size:1.25em;
+    padding: 0.75em;
+    margin-left:1%;
+    margin-top: -1%;
 }

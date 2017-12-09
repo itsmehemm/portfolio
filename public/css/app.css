@@ -79,6 +79,22 @@ body {
     width: 8em;
     float: left;
 }
+.au-logo {
+    height: 4em;
+    width: 4em;
+    float: left;
+}
+.zion-logo {
+    height: 4em;
+    width: 4.5em;
+    float: left;
+}
+.edu-des {
+    margin-left: 2%;
+}
+.edu-title {
+    margin-left: 7%;
+}
 .title-name{
     font-size:1.5em;
 }
@@ -139,4 +155,19 @@ body {
 .skill-detail {
     float:right;
     width: 100%;
+}
+.job-title {
+    margin-left:2%;
+}
+.accom {
+    background: rgb(136, 128, 24);
+    border-radius: 1em;
+    color: white;
+    line-height: 2;
+}
+.gpa {
+    background: rgb(136, 128, 24);
+    border-radius: 1em;
+    color: white;
+    line-height: 2;
 }

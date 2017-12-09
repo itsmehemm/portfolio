@@ -22,7 +22,7 @@
                     </span> 
                     <br>                    
                     <span class="left-badge glyphicon glyphicon-phone" aria-hidden="true"></span>
-                    <span class="left-badge"> +91 9551646440 </span><br>
+                    <span class="left-badge"> +91 95516 46440 </span><br>
                     <span class="left-badge glyphicon glyphicon-envelope" aria-hidden="true"></span>
                     <a class="email-badge" href="mailto:hemanthprasathmurali@gmail.com"> hemanthprasathmurali@gmail.com</a> 
                     <span class="left-badge glyphicon glyphicon-globe" aria-hidden="true"></span>
@@ -43,6 +43,37 @@
                 <div class="summary-info">
                         To get associated with a progressive organization that provides opportunity to utilize my skills, to make
                         innovations and to show my passion for technology.
+                </div>
+            </div>
+
+            <div class="header-widget">
+                <div class="summary">
+                    Experience
+                </div>
+                <div class="job-description">
+                    <div class="job-img">
+                        <img class="pp-logo" src="images/pp.png"/>
+                    </div>
+                    <div class="job-title">
+                        <span class="title-name"> Software Engineer </span> <br>
+                        <span class="company-name"> PayPal </span> <br>
+                        <span class="duration"> July 2017 – Present (6 months) | Chennai Area, India </span> <br> <br>
+                        <span class="responsibility">
+                            Software Development Engineer for the Unbranded Payment Products. One among the 20 most talented engineers who builds the entire Unbranded Products.
+                        </span>    <br>
+                        <span class="res-des">
+                            1. The Unbranded Products represent a large portion(>$120B) of PayPal's annual TPV and generates revenue of about $836M annually.
+                        </span>    <br>
+                        <span class="res-des">
+                            2. Built and scaled the Monthly Accounts Billing product (for PRO20 & PRO30 merchants).
+                        </span>     <br>
+                        <span class="res-des">
+                            3. Built a robust client-side dashboard framework and widget API.
+                        </span>    <br>
+                        <span class="res-des">
+                            4. Redefining few web and API tier technology stack from webscr to Node-KrakenJs Application.
+                        </span>
+                    </div>
                 </div>
             </div>
         </div>

@@ -13,7 +13,7 @@ body {
 }
 .header {
     background: #747377;
-    height: 9%;
+    height: 8%;
 }
 .header-widget {
     background: #fff;
@@ -25,8 +25,8 @@ body {
 }
 .hemm-img {
     padding: 1em; 
-    height: 15em;
-    width: 15em;
+    height: 17em;
+    width: 17em;
     border-radius: 10em;
     float: left;
 }

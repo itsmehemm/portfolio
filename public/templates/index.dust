@@ -165,7 +165,93 @@
                         <span class="accom">&emsp;Mathematics: 100% &emsp; </span> &emsp; &bull; &emsp;
                         <span class="accom">&emsp;Computer Science: 100% &emsp; </span>
                     </div>
+                    <br>
+                </div>
+            </div>
+
+            <div class="header-widget">
+                <div class="summary">
+                    Projects
+                </div>
+                <div class="pro-title">
+                    <span class="title-name">
+                        Tambura Music
+                    </span>
+                    <span class="duration" style="float:right; margin-right:1%">
+                        March 2016 – April 2016
+                    </span> <br>
+                    <span class="accom">&emsp; Independent Project &emsp; </span>
+                    &ensp; &bull; &ensp;
+                    <span class="accom">&emsp; Machine Learning &emsp; </span>
+                    &ensp; &bull; &ensp;
+                    <span class="accom">&emsp; Recommender Systems &emsp; </span>
+                    <br><br>
+                    <span class="res-des">
+                        1. Designed a Music Recommender System for Kollywood music using Collaborative Filtering mechanism.
+                    </span><br>
+                    <span class="res-des">
+                        2. Incorporated Partial Deep-content based Filtering to improve accuracy in predicting music.
+                    </span>     
+                </div>
+                <hr class="hr-line">
+
+                <div class="pro-title">
+                    <span class="title-name">
+                        ICE (In case of Emergency)
+                    </span>
+                    <span class="duration" style="float:right; margin-right:1%">
+                        January 2016 – February 2016
+                    </span> <br>
+                    <span class="accom">&emsp; Microsoft &emsp; </span>
+                    &ensp; &bull; &ensp;
+                    <span class="accom">&emsp; code.fun.do &emsp; </span>
+                    &ensp; &bull; &ensp;
+                    <span class="accom">&emsp;Android &emsp; </span>
+                    <br><br>
+                    <span class="res-des">
+                        1. Developed an android application that serves as an aid to the elderly to get immediate assistance in times of emergency situations from the hospitals nearby and to inform their family members.
+                    </span><br>
+                    <span class="res-des">
+                        2. The User Interface of the application has been made very simple to use so that the senior citizens could use it without getting into the learning process of using sophisticated mobile apps.
+                    </span>     
+                </div>
+                <hr class="hr-line">
+                
+                <div class="pro-title">
+                    <span class="title-name">
+                       Secure Routing Messenger                           
+                    </span>
+                    <span class="duration" style="float:right; margin-right:1%">
+                            October 2015 – November 2015
+                    </span> <br>
+                    <span class="accom">&emsp; Computer Networks &emsp; </span>
+                    &ensp; &bull; &ensp;
+                    <br><br>
+                    <span class="res-des">
+                        1. Developed an application to transmit data between a pair of nodes by consequently forwarding data packets from one node to another until the destination is reached, instead of transmitting data through a fixed base station. </span><br>
+                    <span class="res-des">
+                        2. Location Aided Routing has been used to minimize routing overhead.
+                    </span>     
+                </div>
+                <hr class="hr-line">
+
+                <div class="pro-title">
+                    <span class="title-name">
+                        MIT Student Portal - Database Course (2014)
+                    </span><br>
+                    <span class="duration">
+                            September 2014 – October 2014
+                    </span> <br><br>
+                    <span class="res-des">
+                        1. Designed a database design for a discussion forum using MySQL.
+                    </span><br>
+                    <span class="res-des">
+                        2. The application has been made to control through a PHP program and HTML web pages to facilitate the students to interact with each other, with college administrators and to discuss about all happenings in the University.
+                    </span>     
+                </div>
+                <hr class="hr-line">
             </div>
         </div>
+
     </body>
 </html>

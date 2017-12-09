@@ -14,6 +14,7 @@ body {
     margin-top:6% !important;
 }
 .header {
+    opacity:100;
     background: #747377;
     height: 8%;
     position: fixed;
@@ -115,4 +116,27 @@ body {
 }
 .clear {
     height: 9%;
+}
+.skill-info {
+    background: #e1e1e1;
+    border-radius: 0.7em; 
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.high-label {
+    background: rgb(2, 2, 131);
+    color: white;
+}
+.int-label {
+    background: rgb(33, 33, 224);
+    color: white;
+}
+.beg-label {
+    background: rgb(71, 130, 255);
+    color: white;
+    margin-right: 2%;
+}
+.skill-detail {
+    float:right;
+    width: 100%;
 }

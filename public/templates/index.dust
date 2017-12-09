@@ -15,12 +15,14 @@
                 <div class="intro-section">
                     <span class="name"> Hemanth M </span> <br>
                     <span class="sub-title"> Competitive Programmer | Software Development Engineer at PayPal Inc. </span> <br>
-                    <span class="left-float left-badge glyphicon glyphicon-home" aria-hidden="true"></span>
-                    <span class="address-badge">
+                    <span class="left-badge glyphicon glyphicon-home" aria-hidden="true"></span>
+                    <span class="left-badge">
                         #9/173, Avvaiyar Street, 
                         Agaram Then, TN, India
                     </span> 
-                    <br>
+                    <br>                    
+                    <span class="left-badge glyphicon glyphicon-phone" aria-hidden="true"></span>
+                    <span class="left-badge"> +91 9551646440 </span><br>
                     <span class="left-badge glyphicon glyphicon-envelope" aria-hidden="true"></span>
                     <a class="email-badge" href="mailto:hemanthprasathmurali@gmail.com"> hemanthprasathmurali@gmail.com</a> 
                     <span class="left-badge glyphicon glyphicon-globe" aria-hidden="true"></span>

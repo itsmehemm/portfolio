@@ -7,12 +7,19 @@ body {
     
 }
 .wrapper {
-    background: #e1e1e1;
+    background: #e1e1e1 !important;
     width: 100%;
+}
+.top-header {
+    margin-top:6% !important;
 }
 .header {
     background: #747377;
     height: 8%;
+    position: fixed;
+    top:0; 
+    left:0;
+    width: 100%; 
 }
 .header-widget {
     background: #fff;
@@ -91,4 +98,21 @@ body {
     padding: 1em;
     line-height: 2;
     margin-left: 1%;
+}
+.hr-line {
+    margin-left:2%;
+    margin-right:2%;
+}
+.header-img{
+    margin-left: 50%;
+}
+.header-logo {
+    height: 5.2em;
+    width: 5.3em;
+    border-radius: 10em;
+    padding: 1em;
+
+}
+.clear {
+    height: 9%;
 }

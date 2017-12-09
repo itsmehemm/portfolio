@@ -226,6 +226,7 @@
                     </span> <br>
                     <span class="accom">&emsp; Computer Networks &emsp; </span>
                     &ensp; &bull; &ensp;
+                    <span class="accom">&emsp; Location Aided Routing &emsp; </span>
                     <br><br>
                     <span class="res-des">
                         1. Developed an application to transmit data between a pair of nodes by consequently forwarding data packets from one node to another until the destination is reached, instead of transmitting data through a fixed base station. </span><br>
@@ -237,11 +238,15 @@
 
                 <div class="pro-title">
                     <span class="title-name">
-                        MIT Student Portal - Database Course (2014)
-                    </span><br>
-                    <span class="duration">
+                        MIT Student Portal
+                    </span>
+                    <span class="duration" style="float:right; margin-right:1%">
                             September 2014 – October 2014
-                    </span> <br><br>
+                    </span> <br>
+                    <span class="accom">&emsp; Database Course &emsp; </span>
+                    &ensp; &bull; &ensp;
+                    <span class="accom">&emsp; Web Application &emsp; </span>
+                    <br><br>
                     <span class="res-des">
                         1. Designed a database design for a discussion forum using MySQL.
                     </span><br>
@@ -249,7 +254,10 @@
                         2. The application has been made to control through a PHP program and HTML web pages to facilitate the students to interact with each other, with college administrators and to discuss about all happenings in the University.
                     </span>     
                 </div>
-                <hr class="hr-line">
+                <br>
+            </div>
+            <div class="footer">
+                <center> Designed & maintained by Hemanth M </center>
             </div>
         </div>
 

@@ -1,5 +1,498 @@
-{>"layouts/master" /}
+<html>
 
-{<body}
-    <h1>{@pre type="content" key="greeting"/}</h1>
-{/body}
+<head>
+    <title> Hemanth M | Insights to my professional career </title>
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div class="header">
+        <div class="header-logo">
+            <img class="header-img" src="images/hemm.jpg" />
+        </div>
+    </div>
+    <div class="wrapper">
+        <div class="clear"></div>
+        <!-- Profile Details Widget -->
+        <div class="widget">
+            <div class="profile">
+                <img class="hemm-img" src="/images/hemm.jpg" />
+            </div>
+            <div class="profile-section">
+                <span class="name">
+                    Hemanth M
+                </span>
+                <br>
+                <span class="sub-title">
+                    Competitive Programmer
+                    <span class="bull-label"> &bull; </span>
+                    Software Development Engineer at PayPal Inc.
+                </span>
+                <br>
+                <div class="contact-section">
+                    <span class="contact-badge glyphicon glyphicon-home" aria-hidden="true"></span>
+                    <span class="contact-badge">
+                        #9/173, Avvaiyar Street, Agaram Then, TN, India
+                    </span>
+                    <br>
+                    <span class="contact-badge glyphicon glyphicon-phone" aria-hidden="true"></span>
+                    <span class="contact-badge"> +91 95516 46440 </span>
+                    <br>
+                    <span class="contact-badge glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                    <a class="link-badge" href="mailto:hemanthprasathmurali@gmail.com"> hemanthprasathmurali@gmail.com</a>
+                    <br>
+                    <span class="contact-badge glyphicon glyphicon-globe" aria-hidden="true"></span>
+                    <a class="link-badge" href="www.linkedin.com/itsmehemm"> linkedin.com/itsmehemm </a>
+                </div>
+                <img onclick="window.location.href='http://www.facebook.com/itsmehemm'" class="media-img" src="/images/fb.png" />
+                <img onclick="window.location.href='http://www.twitter.com/Hemanth_Prasath'" class="media-img" src="/images/tt.png" />
+                <img onclick="window.location.href='http://www.facebook.com/itsmehemm'" class="media-img" src="/images/lin.png" />
+                <img onclick="window.location.href='http://www.github.com/itsmehemm'" class="media-img" src="/images/git.png" />
+                <img onclick="window.location.href='http://www.facebook.com/hemant_123'" class="media-img" src="/images/cc.jpeg" />
+            </div>
+        </div>
+
+        <!-- Summary Widget -->
+        <div class="widget">
+            <div class="widget-title">
+                Summary
+            </div>
+            <div class="widget-info">
+                To get associated with a progressive organization that provides opportunity to utilize my skills, to make innovations and
+                to show my passion for technology.
+            </div>
+        </div>
+
+        <!-- Experience Widget -->
+        <div class="widget">
+            <div class="widget-title">
+                Experience
+            </div>
+            <!-- Full Time -->
+            <div class="job-description">
+                <div class="job-img">
+                    <img class="pp-logo" src="images/pp.png" />
+                </div>
+                <div class="job-title">
+                    <span class="title-name"> Software Engineer </span>
+                    <br>
+                    <span class="company-name"> PayPal </span>
+                    <br>
+                    <span class="duration">
+                        July 2017 - Present (6 months)
+                        <span class="bull-label"> &bull; </span>
+                        Chennai Area, India
+                    </span>
+                </div>
+                <div class="job-details">
+                    <span class="job-des">
+                        Software Development Engineer for the Unbranded Payment Products. One among the 20 most talented engineers who builds the
+                        entire Unbranded Products.
+                    </span>
+                    <br>
+                    <span class="job-des">
+                        1. The Unbranded Products represent a large portion(>$120B) of PayPal's annual TPV and generates revenue of about $836M annually.
+                    </span>
+                    <br>
+                    <span class="job-des">
+                        2. Built and scaled the Monthly Accounts Billing product (for PRO20 & PRO30 merchants).
+                    </span>
+                    <br>
+                    <span class="job-des">
+                        3. Built a robust client-side dashboard framework and widget API.
+                    </span>
+                    <br>
+                    <span class="job-des">
+                        4. Redefining few web and API tier technology stack from webscr to Node-KrakenJs Application.
+                    </span>
+                </div>
+                <hr class="hr-line">
+            </div>
+            <!-- Intern -->
+            <div class="job-description">
+                <div class="job-img">
+                    <img class="pp-logo" src="images/pp.png" />
+                </div>
+                <div class="job-title">
+                    <span class="title-name"> Software Engineering Intern </span>
+                    <br>
+                    <span class="company-name"> PayPal </span>
+                    <br>
+                    <span class="duration">
+                        May 2016 - July 2016 (3 months)
+                        <span class="bull-label"> &bull; </span>
+                        Chennai Area, India </span>
+                </div>
+                <div class="job-details">
+                    <span class="job-des">
+                        Software Development Engineer Intern in Data Analytics and Risk team of PayPal India.
+                    </span>
+                    <br>
+                    <span class="job-des">
+                        1. Automated the updating of sensible live and huge amount of data in Teradata (Simba).
+                    </span>
+                    <br>
+                    <span class="job-des">
+                        2. Designed a single gateway dashboard for all Risk Products(Consume, Seller and Regional Risk)
+                    </span>
+                    <br>
+                    <span class="job-des">
+                        3. Redesigned the Key Performance Indicator (KPI) portal that renders the critical values and key targets for various organizations
+                        inside PayPal.
+                    </span>
+                    <br>
+                    <span class="job-des">
+                        4. The idea and prototype developed were taken into production.
+                    </span>
+                    <br>
+                    <span class="job-des">
+                        5. Got Pre Placement Offer (PPO) to acknowledge my internship performance.
+                        <br>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <!-- Skills Widget -->
+        <div class="widget">
+            <div class="skill-header">
+                <span class="skill-widget-title float-left"> Top Skills </span>
+                <div class="level-label">
+                    
+                    <span class="beg-label float-right"> &emsp;Beginner&emsp; </span>
+                    <span class="bull-label float-right"> &bull; </span>
+                    <span class="int-label float-right"> &emsp;Intermediate&emsp; </span>
+                    <span class="bull-label float-right"> &bull; </span>
+                    <span class="high-label float-right"> &emsp;Highly proficient&emsp;</span>
+                </div>
+            </div>
+            <div class="skill-set">
+                <span class="high-label"> &emsp; C language &emsp; </span>
+                <span class="high-label"> &emsp; C++ &emsp; </span>
+                <span class="high-label"> &emsp; Java &emsp; </span>
+                <span class="high-label"> &emsp; Javascript &emsp; </span>
+                <span class="high-label"> &emsp; NodeJs &emsp; </span>
+                <span class="high-label"> &emsp; HTML &emsp; </span>
+                <span class="high-label"> &emsp; CSS &emsp; </span>
+                <span class="high-label"> &emsp; JQuery &emsp; </span>
+                <br>
+                <br>
+                <span class="int-label"> &emsp; Python &emsp; </span>
+                <span class="int-label"> &emsp; PHP &emsp; </span>
+                <span class="int-label"> &emsp; ReactJs &emsp; </span>
+                <span class="int-label"> &emsp; DustJs &emsp; </span>
+                <span class="int-label"> &emsp; AngularJs &emsp; </span>
+                <span class="int-label"> &emsp; MySQL &emsp; </span>
+                <br>
+                <br>
+                <span class="beg-label"> &emsp; TestNG &emsp; </span>
+                <br>
+                <br>
+            </div>
+        </div>
+        <!-- Education widget -->
+        <div class="widget">
+            <div class="widget-title">
+                Education
+            </div>
+            <div class="edu-des">
+                <div class="job-img">
+                    <img class="au-logo" src="images/au.png" />
+                </div>
+                <div class="edu-title">
+                    <span class="title-name"> Anna University </span>
+                    <br>
+                    <span class="company-name"> Bachelor's Degree, Computer Science and Engineering </span>
+                    <br>
+                    <span class="duration">
+                        2013 - 2017
+                        <span class="bull-label"> &bull; </span>
+                        Chennai Area, India
+                    </span>
+                    <br>
+                    <span class="gpa">&emsp;CGPA: 9.4/10 &emsp; </span>
+                    <span class="bull-label"> &bull; </span>
+                    <span class="accom">&emsp;First Class with Distinction &emsp; </span>
+                </div>
+            </div>
+            <hr class="hr-line">
+            <div class="edu-des">
+                <div class="job-img">
+                    <img class="zion-logo" src="images/zion.jpg" />
+                </div>
+                <div class="edu-title">
+                    <span class="title-name"> Zion Mat. Higher Sec. School </span>
+                    <br>
+                    <span class="company-name"> Computer Science </span>
+                    <br>
+                    <span class="duration">
+                        2011 - 2013
+                        <span class="bull-label"> &bull; </span>
+                        Chennai Area, India
+                    </span>
+                    <br>
+                    <span class="gpa">&emsp;Percentage: 97.41% &emsp; </span>
+                    <span class="bull-label"> &bull; </span>
+                    <span class="accom">&emsp;Mathematics: 100% &emsp; </span>
+                    <span class="bull-label"> &bull; </span>
+                    <span class="accom">&emsp;Computer Science: 100% &emsp; </span>
+                </div>
+                <br>
+            </div>
+        </div>
+        <!-- Projects widget -->
+        <div class="widget">
+            <div class="widget-title">
+                Projects
+            </div>
+            <!-- First project -->
+            <div class="pro-details">
+                <span class="title-name">
+                    Tambura Music
+                </span>
+                <span class="duration float-right" style="margin-right:1%">
+                    March 2016 - April 2016
+                </span>
+                <br>
+                <span class="accom">&emsp; Independent Project &emsp; </span>
+                <span class="bull-label"> &bull; </span>
+                <span class="accom">&emsp; Machine Learning &emsp; </span>
+                <span class="bull-label"> &bull; </span>
+                <span class="accom">&emsp; Recommender Systems &emsp; </span>
+                <br>
+                <br>
+                <div class="pro-des">
+                    1. Designed a Music Recommender System for Kollywood music using Collaborative Filtering mechanism.
+                    <br> 2. Incorporated Partial Deep-content based Filtering to improve accuracy in predicting music.
+                </div>
+            </div>
+            <hr class="hr-line">
+            <!-- Second project -->
+            <div class="pro-details">
+                <span class="title-name">
+                    ICE (In case of Emergency)
+                </span>
+                <span class="duration float-right" style="margin-right:1%">
+                    January 2016 - February 2016
+                </span>
+                <br>
+                <span class="accom">&emsp; Microsoft &emsp; </span>
+                <span class="bull-label"> &bull; </span>
+                <span class="accom">&emsp; code.fun.do &emsp; </span>
+                <span class="bull-label"> &bull; </span>
+                <span class="accom">&emsp;Android &emsp; </span>
+                <br>
+                <br>
+                <div class="pro-des">
+                    1. Developed an android application that serves as an aid to the elderly to get immediate assistance in times of emergency
+                    situations from the hospitals nearby and to inform their family members.
+                    <br> 2. The User Interface of the application has been made very simple to use so that the senior citizens
+                    could use it without getting into the learning process of using sophisticated mobile apps.
+                </div>
+            </div>
+            <hr class="hr-line">
+            <!-- Third project -->
+            <div class="pro-details">
+                <span class="title-name">
+                    Secure Routing Messenger
+                </span>
+                <span class="duration float-right" style="margin-right:1%">
+                    October 2015 - November 2015
+                </span>
+                <br>
+                <span class="accom">&emsp; Computer Networks &emsp; </span>
+                <span class="bull-label"> &bull; </span>
+                <span class="accom">&emsp; Location Aided Routing &emsp; </span>
+                <br>
+                <br>
+                <div class="pro-des">
+                    1. Developed an application to transmit data between a pair of nodes by consequently forwarding data packets from one node
+                    to another until the destination is reached, instead of transmitting data through a fixed base station.
+                    <br> 2. Location Aided Routing has been used to minimize routing overhead.
+                </div>
+            </div>
+            <hr class="hr-line">
+            <!-- Fourth project -->
+            <div class="pro-details">
+                <span class="title-name">
+                    MIT Student Portal
+                </span>
+                <span class="duration float-right" style="margin-right:1%">
+                    September 2014 - October 2014
+                </span>
+                <br>
+                <span class="accom">&emsp; Database Course &emsp; </span>
+                <span class="bull-label"> &bull; </span>
+                <span class="accom">&emsp; Web Application &emsp; </span>
+                <br>
+                <br>
+                <div class="pro-des">
+                    1. Designed a database design for a discussion forum using MySQL.
+                    <br> 2. The application has been made to control through a PHP program and HTML web pages to facilitate the
+                    students to interact with each other, with college administrators and to discuss about all happenings
+                    in the University.
+                </div>
+            </div>
+            <br>
+        </div>
+        <!-- Awards and Achievements-->
+        <div class="widget">
+            <div class="widget-title">
+                Awards & Achievements
+            </div>
+            <!-- award -->
+            <div class="place-holder float-left"> &ensp; 2 &ensp;</div>
+            <div class="award-details">
+                <span class="title-name">
+                    Onsite Programming Contest
+                </span>
+                <br>
+                <span class="company-name">
+                    Kurukshetra
+                </span>
+                <span class="bull-label"> &bull; </span>
+                <span class="duration">
+                    February 2015
+                </span> <br> 
+                <span class="award-des">
+                    Won 2nd place of more than 250 teams in the Onsite Programming Contest of Kurukshetra, a National
+                    Level Technical Symposium conducted by the College of Engineering, Guindy in February, 2015.
+                </span>
+            </div>
+            <hr class="hr-line">
+
+            <!-- award -->
+            <div class="place-holder float-left"> &ensp; 3 &ensp;</div>
+            <div class="award-details">
+                <span class="title-name">
+                    Select *
+                </span>
+                <br>
+                <span class="company-name">
+                    Prayatna
+                </span>
+                <span class="bull-label"> &bull; </span>
+                <span class="duration">
+                    March 2015
+                </span> <br> 
+                <span class="award-des">
+                    Won 3rd place of more than 100 teams in Select *, an SQL query based contest of Prayatna, a National Level Technical symposium conducted by MIT Campus in March, 2015.
+                </span>
+            </div>
+            <hr class="hr-line">
+
+            <!-- award -->
+            <div class="place-holder float-left"> &ensp; F &ensp;</div>
+            <div class="award-details">
+                <span class="title-name">
+                    Firefox Hackathon
+                </span>
+                <br>
+                <span class="company-name">
+                    Mozilla Corporation
+                </span>
+                <span class="bull-label"> &bull; </span>
+                <span class="duration">
+                    March 2015
+                </span> <br> 
+                <span class="award-des">
+                    Finalist in Firefox Hackathon, a three hour Hackathon conducted by Mozilla Corporation at Madras
+                    Institute of Technology in March, 2015.
+                </span>
+            </div>
+            <hr class="hr-line">
+
+            <!-- award -->
+            <div class="place-holder float-left"> &ensp; F &ensp;</div>
+            <div class="award-details">
+                <span class="title-name">
+                    code.fun.do
+                </span>
+                <br>
+                <span class="company-name">
+                    Microsoft Corporation
+                </span>
+                <span class="bull-label"> &bull; </span>
+                <span class="duration">
+                    February 2016, 2017
+                </span> <br> 
+                <span class="award-des">
+                    Finalist in code.fun.do, a one week Hackathon conducted by Microsoft Corporation at Anna University in February, 2016 & 2017.</span>
+            </div> <br>
+        </div>
+        <!-- Volunteer Exp -->
+        <div class="widget">
+            <div class="widget-title">
+                Organizations
+            </div>
+            <div class="edu-des">
+                <div class="job-img">
+                    <img class="au-logo" src="images/au.png" />
+                </div>
+                <div class="edu-title">
+                    <span class="title-name"> Centre for University Industry Collaboration, Anna University </span>
+                    <br>
+                    <span class="company-name"> Placement Represesntative </span>
+                    <br>
+                    <span class="duration">
+                        2015 - 2017
+                        <span class="bull-label"> &bull; </span>
+                        Chennai Area, India
+                    </span> <br> <br>
+                    <span class="award-des">
+                            Been as a Placement Representative for 2 years for the Computer Science Department.
+                            <br>
+                            1. Engaged with the HR executives from various organizations during campus hiring.
+                            <br>
+                            2. Served as a bridge between fellow students and the organizations to assist for placements.
+                    </span>
+                </div>
+            </div>
+            <hr class="hr-line">
+            <div class="edu-des">
+                <div class="job-img">
+                    <img class="au-logo" src="images/mit.jpg" />
+                </div>
+                <div class="edu-title">
+                    <span class="title-name"> Coder's Club of MIT </span>
+                    <br>
+                    <span class="company-name"> Programming Lecturer </span>
+                    <span class="bull-label"> &bull; </span>
+                    <span class="company-name"> Problem Setter </span>
+                    <span class="bull-label"> &bull; </span>
+                    <span class="company-name"> Event Organizer </span>
+                    <br>
+                    <span class="duration">
+                        2015 - 2017
+                        <span class="bull-label"> &bull; </span>
+                        Chennai Area, India
+                    </span> <br> <br>
+                    <span class="award-des">
+                        Been a part of conducting many Algorithmic lectures to fellow students and University juniors on behalf of the Coder's Club of MIT.<br>
+                    </span>
+                </div>
+            </div>
+            <br>
+        </div>
+        <!-- Languages known -->
+        <div class="widget">
+            <div class="widget-title">
+                Languages Known
+            </div>
+            <span class="lang-label"> &emsp; English &emsp;</span>
+            <span class="lang-label"> &emsp;Tamil language&emsp; </span>
+            <span class="lang-label"> &emsp;Telugu&emsp; </span>
+            <br> <br>
+        </div>
+        
+
+        <div class="footer">
+            <center> Designed & maintained by Hemanth M </center>
+        </div>
+    </div>
+    
+</body>
+
+</html>
